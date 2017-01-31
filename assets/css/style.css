@@ -148,6 +148,7 @@ body {
 	top:-50px;
 	z-index: 1;
 	position:relative;
+	text-align: center;
 }
 .textRight {
 	float:right;
@@ -158,4 +159,5 @@ body {
 	top:-50px;
 	z-index: 1;
 	position: relative;
+	text-align:center;
 }
