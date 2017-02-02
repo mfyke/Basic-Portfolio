@@ -40,9 +40,9 @@
 	border: #cccccc 1px solid;
 	margin-left: 15px;
 	padding:20px;
-	width: 650px;
-	position:absolute;
-	left: 15px;
+	width: 608px;
+	position:relative;
+	float: left;
 	margin-bottom: 140px;
 }
 .content h1 {
@@ -64,10 +64,10 @@
 .connect {
 	background-color:#ffffff;
 	border: 1px solid #cccccc;
-	width: 270px;
+	width: 248px;
 	padding: 10px;
-	position:absolute;
-	right: 15px;
+	position:relative;
+	float: right;
 	margin-top: 120px;
 }
 .connect img {
@@ -89,6 +89,11 @@
 	text-align:center;
 	margin-left:auto;
 	margin-right:auto;
+}
+.page {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
 }
 footer {
 	display: block;
@@ -148,6 +153,7 @@ body {
 	top:-50px;
 	z-index: 1;
 	position:relative;
+	text-align: center;
 }
 .textRight {
 	float:right;
@@ -158,4 +164,5 @@ body {
 	top:-50px;
 	z-index: 1;
 	position: relative;
+	text-align:center;
 }
