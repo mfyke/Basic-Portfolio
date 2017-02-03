@@ -14,7 +14,7 @@
 	width:200px;
 	color:#ffffff;
 	float: left;
-	margin-left:15px;
+	margin-left:8px;
 	font-family:Georgia, Times, 'Times New Roman', serif;
 	text-align:center;
 	height:50px; 
@@ -28,7 +28,7 @@
 	right:0px;
 	float: right;
 	margin-top: 50px;
-	margin-right: 100px;
+	margin-right: 35px;
 }
 .navBar ul a {
 	text-decoration: none;
@@ -43,7 +43,7 @@
 	width: 608px;
 	position:relative;
 	float: left;
-	margin-bottom: 140px;
+	margin-bottom: 190px;
 }
 .content h1 {
 	color: #4aaaa5;
@@ -80,6 +80,8 @@
 }
 .connect ul {
 	list-style-type: none;
+	padding:0px;
+	text-align: center;
 }
 .connect h2 {
 	color: #4aaaa5;
